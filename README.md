@@ -1,14 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning ...
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <video width="" height="" controls>
-	<source src="C:\Users\RAM MOHAN\Downloads\pinwheel-8829_256.gif">
-  </body>
-</html>
+- ✌️ Active....
 <!--
 **SangatiRammohan/SangatiRammohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
