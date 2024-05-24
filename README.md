@@ -1,7 +1,10 @@
 ## Hi there 👋
 - 🌱 I’m currently learning ...
-- ✌️ Active....![pinwheel-8829_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/fc6899af-3dce-4001-8fb0-17067c2a8a3b)
-https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- ✌️ Active....
+-
+-
+- ![pinwheel-8829_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/fc6899af-3dce-4001-8fb0-17067c2a8a3b)
+
 <!--
 **SangatiRammohan/SangatiRammohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
