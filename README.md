@@ -1,9 +1,12 @@
+
 ## Hi there 👋
 - 🌱 I’m currently learning ...
 - ✌️ Active....
 
     ![pinwheel-8829_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/fc6899af-3dce-4001-8fb0-17067c2a8a3b)
-
+![earth-1917_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/54a38de3-9f19-46f9-96b1-b44bd863898c)
+![bird-10648_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/a9758c3b-f21a-44bc-8dfb-70d4f66ffaf1)
+![leaves-8724_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/4e5e12ba-2ac8-482e-a43d-707da1ce3201)
 <!--
 **SangatiRammohan/SangatiRammohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
