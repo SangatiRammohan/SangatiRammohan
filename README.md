@@ -6,7 +6,7 @@
   </head>
   <body>
     <video width="" height="" controls>
-	<source src="C:\Users\RAM MOHAN\Downloads\pinwheel-8829_256.gif"
+	<source src="C:\Users\RAM MOHAN\Downloads\pinwheel-8829_256.gif">
   </body>
 </html>
 <!--
