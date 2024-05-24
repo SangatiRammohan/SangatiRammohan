@@ -1,4 +1,6 @@
 ## Hi there 👋
+: waving_hand: U+1F44B
+- 🌱 I’m currently learning ...
 
 <!--
 **SangatiRammohan/SangatiRammohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
