@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-## Socials
- ![leaves-8724_256](https://github.com/SangatiRammohan/SangatiRammohan/assets/134007389/4e5e12ba-2ac8-482e-a43d-707da1ce3201)
+
 
